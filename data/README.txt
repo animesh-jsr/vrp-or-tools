@@ -1,0 +1,1 @@
+Data folder (not used in synthetic demo). You can place real datasets here later.

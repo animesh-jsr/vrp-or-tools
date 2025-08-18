@@ -1,0 +1,9 @@
+{
+  "num_locations": 50,
+  "num_vehicles": 5,
+  "seed": 10,
+  "naive_total_distance": 52582,
+  "optimized_total_distance": 11929,
+  "percent_improvement_vs_naive": 77.31,
+  "notes": "Distances are in scaled units (Euclidean * 100)."
+}
