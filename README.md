@@ -1,4 +1,7 @@
 # Vehicle Routing & Scheduling (Google OR-Tools)
+*Prepared by: Animesh Kumar | Date: Aug 2025*
+
+
 
 A ready-to-run Python project that demonstrates the **Vehicle Routing Problem (VRP)** using **Google OR-Tools**, with a simple **naive baseline** for comparison and clean **matplotlib visualizations**.
 
@@ -47,8 +50,3 @@ A ready-to-run Python project that demonstrates the **Vehicle Routing Problem (V
 - Distances are computed as **Euclidean** between points and scaled to integers for OR-Tools.
 - You can change number of locations/vehicles and the random seed via CLI flags.
 
-## 🧩 Next Steps (to impress professors)
-- Add **capacity constraints** (demands + vehicle capacity via OR-Tools dimensions).
-- Add **time windows** (deliveries within given time ranges).
-- Load **real coordinates** (lat/long) and map distances via OSRM/Google Maps API.
-- Try **Pyomo/PuLP** to formulate VRP variants as MILP for comparison.
